@@ -9,6 +9,7 @@ package com.mycompany.day1;
  *
  * @author vidya
  */
+//FIND THE GROSS SALARY OF AN EMPLOYEE
 import java.util.Scanner;
 public class Day1 {
 
